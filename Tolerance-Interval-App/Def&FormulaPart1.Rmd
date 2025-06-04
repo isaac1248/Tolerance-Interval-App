@@ -1,0 +1,16 @@
+---
+title: "Def&FormulaPart1"
+output: html_document
+---
+
+## Definitions
+
+<p>
+<u>Tolerance Interval</u>: In the context of statistical testing, a (Px100%,(1-\(\alpha\))x100%) tolerance interval is an interval which contains at least Px100% of the population with a confidence level of (1-\(\alpha\))x100%. In other words, after collecting many random samples of sufficient size and computing (Px100%,(1-\(\alpha\))x100%) tolerance intervals from each sample, approximately (1-\(\alpha\))x100% of the time the tolerance interval will contain atleast Px100% of the population.
+</p>
+<p>
+<u>1-Sided Tolerance Interval</u>: A tolerance interval which contains either the first Px100% of the population with (1-\(\alpha\))x100% confidence (in which case its endpoint is referred to as an "upper limit"), or the last Px100% of the population with (1-\(\alpha\))x100% confidence (in which case its endpoint is referred to as a "lower limit").
+</p>
+<p>
+<u>2-Sided Tolerance Interval</u>: A tolerance interval which contains the middle Px100% of the population with (1-\(\alpha\))x100% confidence (in which case its endpoints are referred to as "upper limit" and "lower limit" respectively). 
+</p>
